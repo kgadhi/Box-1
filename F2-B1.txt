@@ -1,0 +1,2 @@
+This code is the result of analysis of the daily waterfall data.
+The sum of 'sls_rtn' is goverened by case logic using daily waterfall data source.
