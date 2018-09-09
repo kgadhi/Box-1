@@ -1,2 +1,5 @@
 This code is the result of analysis of the daily waterfall data.
 The sum of 'sls_rtn' is goverened by case logic using daily waterfall data source.
+
+We can use a derived table.
+Are there any ideas on the filter-gather of waterfall, something to prep for a weekly waterfall?
