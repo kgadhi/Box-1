@@ -3,3 +3,4 @@ The sum of 'sls_rtn' is goverened by case logic using daily waterfall data sourc
 
 We can use a derived table.
 Are there any ideas on the filter-gather of waterfall, something to prep for a weekly waterfall?
+Cinzy 2 2.
